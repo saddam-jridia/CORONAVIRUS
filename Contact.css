@@ -1,0 +1,23 @@
+#body,html,*{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-left:0px ;
+	padding-top: 20px; 
+	padding-right:0px;
+	padding-bottom: 0px;
+	font-size:20px;
+}
+h1{
+	
+	
+	background: # F00A3C;
+	text-align: center;
+    color:red;
+	padding:40px; 
+	font-size: 40px;
+	font-weight:bold;
+	line-height: normal;
+}
+
